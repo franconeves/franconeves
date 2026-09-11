@@ -1,16 +1,70 @@
-<h1 align="center">Hi 👋, I'm Franco Neves</h1>
-<h3 align="center">A passionate data analysis developer from Brazil</h3>
+# 👋 Olá, eu sou Franco Neves
 
-- 🌱 I’m currently learning **Azure, Databricks, Bigquery, Python**
+Sou um profissional de **Dados e Analytics**, atualmente atuando com **Analytics Engineering e liderança técnica**, construindo soluções que conectam dados, tecnologia e necessidades reais de negócio.
 
-- 💬 Ask me about **SQL, Power BI, SSIS**
+Minha trajetória passa por diferentes áreas do ecossistema de dados — de **Business Intelligence e Data Analysis** até **Data Engineering e Analytics Engineering** — o que me permite enxergar problemas de forma mais ampla, desde a origem dos dados até sua utilização na tomada de decisão.
 
-- 📫 How to reach me **francombarbosa@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/franco-neves-06809287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franco-neves-06809287" height="30" width="40" /></a>
-</p>
+## 🚀 Sobre mim
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
+- 💼 Atuação em **Data & Analytics**
+- 🧠 Experiência com **liderança técnica e desenvolvimento de profissionais**
+- ☁️ Foco atual em soluções modernas de dados utilizando **Google Cloud Platform**
+- 📊 Experiência com **Analytics Engineering, Data Modeling e Business Intelligence**
+- ⚙️ Interesse em arquitetura, automação, governança e boas práticas de desenvolvimento
+- 🔍 Buscando integrar dados e IA para gerar produtos que gerem impacto real para o negócio
+
+Acredito que bons produtos de dados não são construídos apenas com tecnologia.
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+### Data & Analytics
+
+`SQL` • `BigQuery` • `dbt` • `Data Modeling` • `ETL/ELT`
+
+### Cloud & Engineering
+
+`Google Cloud Platform` • `Dataflow` • `Cloud Composer` • `Python`
+
+### Business Intelligence
+
+`Power BI` • `DAX` • `Power Query` • `Excel`
+
+### Development
+
+`Git` • `CI/CD` • `Bitbucket`
+
+---
+
+## 🧩 O que me interessa
+
+Atualmente tenho dedicado bastante atenção a temas como:
+
+- Modern Analytics Engineering
+- Arquitetura e modelagem de dados
+- Data Products
+- Qualidade e governança de dados
+- Otimização de consultas e custos
+- Automação de pipelines
+- Boas práticas de desenvolvimento aplicadas a dados
+- Inteligência Artificial aplicada ao ciclo de desenvolvimento
+- Liderança técnica e evolução de times de dados
+
+---
+
+## 📂 Projetos
+
+Aqui você encontrará projetos relacionados aos meus estudos, experimentos e interesses pessoais em tecnologia.
+
+Nem tudo o que faço profissionalmente pode ser publicado aqui, mas este espaço também funciona como um ambiente para explorar ideias, testar tecnologias e compartilhar projetos que considero interessantes.
+
+---
+
+## 🤝 Vamos nos conectar?
+
+💼 [LinkedIn](https://www.linkedin.com/in/franco-neves-dados/)
+
+🐙 [GitHub](https://github.com/franconeves)
